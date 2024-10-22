@@ -1,3 +1,6 @@
+## 0.1.5 (2024-10-22)
+`packaging` is used in place of `distutils`
+
 ## 0.1.4 (2022-0912)
 a bug crashed
 

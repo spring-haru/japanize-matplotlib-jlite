@@ -8,7 +8,7 @@ for filename in glob.iglob('./japanize_matplotlib_jlite/**', recursive=True):
 
 
 setup(name='japanize-matplotlib-jlite',
-      version='0.1.4',
+      version='0.1.5',
       description='JupyterLiteでmatplotlibのフォント設定を自動で日本語化する',
       author='spring-haru',
       author_email='tetsu.yes@gmail.com',
